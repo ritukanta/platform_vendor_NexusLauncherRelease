@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <permissions>
-  <privapp-permissions package="com.android.systemui.plugin.globalactions.wallet">
-    <permission name="com.android.systemui.permission.PLUGIN" />
-  </privapp-permissions>
+    <privapp-permissions package="com.android.systemui.plugin.globalactions.wallet">
+        <permission name="com.android.systemui.permission.PLUGIN" />
+    </privapp-permissions>
 </permissions>
